@@ -275,7 +275,8 @@
       "tutorials/remote-service-set-up-mock-cf/*",
       "tutorials/set-up-bas/*",
       "tutorials/set-up-cicd/*",
-      "tutorials/use-local-launch-page/*"
+      "tutorials/use-local-launch-page/*",
+      "tutorials/user-role-assignment-kyma/*"
     ]
   },
   {

@@ -240,7 +240,8 @@
       "tutorials/private-link-aws/*",
       "tutorials/private-link-microsoft-azure/*",
       "tutorials/private-link-onboarding/*",
-      "tutorials/private-link-service-onboarding-aws/*"
+      "tutorials/private-link-service-onboarding-aws/*",
+      "tutorials/cp-kyma-scale-with-cls/*"
     ]
   },
   {

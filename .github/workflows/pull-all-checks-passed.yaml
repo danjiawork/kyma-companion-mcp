@@ -22,7 +22,7 @@ jobs:
       contents: read
     steps:
       - name: Check if all checks passed
-        uses: wechuli/allcheckspassed@644b5ba69cbde521899ba3093e41e28c49a1f8ab # v2.3.0
+        uses: wechuli/allcheckspassed@984b54ac3cf7fc24c737f125e9b060cd265479db # v2.3.0
         with:
           delay: "1"
           retries: "10"
